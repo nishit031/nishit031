@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishit031
+- 👋 Hi, I’m NISHIT MAKWANA
 - 👀 I’m interested in django developing
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on developer
