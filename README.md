@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NISHIT MAKWANA
 - 👀 I’m interested in django developing
-- 🌱 I’m currently learning mern stack
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on developer
 - 📫 How to reach me nishitmakvana@gmail.com
 
